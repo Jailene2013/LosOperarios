@@ -1,0 +1,6 @@
+c:\users\harol\documents\visual studio 2015\Projects\Operarios\Operarios\bin\Debug\Operarios.exe.config
+c:\users\harol\documents\visual studio 2015\Projects\Operarios\Operarios\bin\Debug\Operarios.exe
+c:\users\harol\documents\visual studio 2015\Projects\Operarios\Operarios\bin\Debug\Operarios.pdb
+c:\users\harol\documents\visual studio 2015\Projects\Operarios\Operarios\obj\Debug\Operarios.csprojResolveAssemblyReference.cache
+c:\users\harol\documents\visual studio 2015\Projects\Operarios\Operarios\obj\Debug\Operarios.exe
+c:\users\harol\documents\visual studio 2015\Projects\Operarios\Operarios\obj\Debug\Operarios.pdb
